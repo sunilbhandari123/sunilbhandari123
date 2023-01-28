@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Sunilbhandari
 - 👀 I’m interested in tech
-- 🌱 I’m currently learning flutter/dart
-- 💞️ I’m looking to collaborate on flutter projects
+- 🌱 I’m currently learning Data Science.
 - 📫 you can  reach me in linkidin=https://www.linkedin.com/in/sunil-bhandari-222439219/
 
 <!---
