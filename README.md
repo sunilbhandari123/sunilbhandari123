@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sunil Bhandari</h1>
 <h3 align="center">A passionate Data Scientist from Nepal</h3>
-<img align="right"alt="coding"width="400"src="![image](https://github.com/user-attachments/assets/24346601-eb50-40b6-ba80-4e199b3767ba)"
+<img align="right"alt="coding"width="400"src="https://media1.giphy.com/media/LaVp0AyqR5bGsC5Cbm/200w.gif?cid=6c09b952azik1qg6xh6esm7z9iwrfhnqyzj8v67sd8tpo8a6&ep=v1_gifs_search&rid=200w.gif&ct=g"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunilbhandari123&label=Profile%20views&color=0e75b6&style=flat" alt="sunilbhandari123" /> </p>
 
