@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **sunilbhandari2060@gmail.com**
 
-- ⚡ Fun fact **I am ugly**
+- ⚡ Fun fact **I am Lazy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
