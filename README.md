@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Sunil Bhandari</h1>
-<h3 align="center">A passionate Data Scientist from Nepal</h3>
+<h3 align="center">A passionate Data Scientist/Analyst from Nepal</h3>
 <img align="right"alt="coding"width="400"src="https://media1.giphy.com/media/LaVp0AyqR5bGsC5Cbm/200w.gif?cid=6c09b952azik1qg6xh6esm7z9iwrfhnqyzj8v67sd8tpo8a6&ep=v1_gifs_search&rid=200w.gif&ct=g"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunilbhandari123&label=Profile%20views&color=0e75b6&style=flat" alt="sunilbhandari123" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sunil4b" target="blank"><img src="https://img.shields.io/twitter/follow/sunil4b?logo=twitter&style=for-the-badge" alt="sunil4b" /></a> </p>
 
-- 🌱 I’m currently learning **Natural Language Processing**
+- 🌱 I’m currently learning **Analytics**
 
-- 💬 Ask me about **Data Science,Machine Learning**
+- 💬 Ask me about **Data Science/ Analysis,Machine Learning**
 
 - 📫 How to reach me **sunilbhandari2060@gmail.com**
 
